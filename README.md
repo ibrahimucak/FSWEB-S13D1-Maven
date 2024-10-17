@@ -1,11 +1,6 @@
 # Introduction To Java :)
 
-### Proje Kurulumu
 
-Projeyi öncelikle forklayın ve clone edin.
-Daha sonra projeyi IntellijIDEA kullanarak açınız. README.md dosyasını dikkatlı bir şekilde okuyarak istenenleri yapmaya çalışın.
-Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projelerimizi belli klasör kalıplarında saklamak işimizi kolaylaştırmak adına iyi bir alışkanlıktır.
-Örnek bir Lokasyon: Workintech/Sprint_1/Etud.
 
 ### Hedeflerimiz:
 
@@ -73,8 +68,6 @@ area(-1.0, 4.0); => -1 değerini dönmeli.
 * parametre negatif bir dğer alırsa metod yine -1 dönmeli.
 * Diğer şartlarda metod ```radius*radius*Math.PI``` değerini dönmeli
 * Math.PI kullandığında ````math```` kütüphanesini import etmen gerekicek. 
-* Intellij kendisi otomatik import yapmazsa nasıl yapabileceğini araştır. Otomatik yaparsa Java'da başka kütüphaneleri nasıl ```import``` edebileceğimizi görmüş olucaksın.
-
 area(5.0); => 78.53975 değerini dönmeli
 
 area(-1); => -1 değerini dönmeli.
